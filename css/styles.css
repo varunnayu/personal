@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    text-align: center;
+    color: #40514E;
+}
+h1{
+    margin:50px auto 0 auto;
+    font-family:'Sacramento',cursive;
+    color: #66BFBF;
+   font-size: 5.652rem;
+}
+.top-container{
+    background-color:#E4F9F5 ;
+    position: relative;
+    padding-top: 105px;
+}
+.bottom-container{
+    background-color: #64bfbf;
+    padding: 50px 0 20px;
+}
+.middle-container{
+    margin:100px ;
+    border:20px 20px 20px 20px;
+}
+h2{
+    color: #66BFBF;
+    font-weight: normal;
+    font-size: 2.5rem;
+    padding-bottom:10px ;
+    
+}
+h3{
+    color:  #11999E;
+}
+a{
+    color:  #11999E;
+    margin: 10px 10px;
+    text-decoration: none;
+}
+div{
+    background-color: #E4F9F5;
+}
+.bottom-cloud{
+    position: absolute;
+    left:350px;
+
+}
+.top-cloud{
+    position: absolute;
+    right: 390px;
+    top: 40px;
+}
+.skill-row{
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.chillies-img{
+    float:right;
+    width: 25%;
+   margin-right:30px;
+   margin-left: 30px;
+}
+.creative-img{
+    float: left;
+    width: 25%;
+    margin-left: 30px;
+}
+
+.btn {
+        background: #11cdd4;
+        background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+        background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+        -webkit-border-radius: 60;
+        -moz-border-radius: 60;
+        border-radius: 60px;
+        font-family: Georgia;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #b3d5eb;
+        background-image: -webkit-linear-gradient(top, #b3d5eb, #53abe6);
+        background-image: -moz-linear-gradient(top, #b3d5eb, #53abe6);
+        background-image: -ms-linear-gradient(top, #b3d5eb, #53abe6);
+        background-image: -o-linear-gradient(top, #b3d5eb, #53abe6);
+        background-image: linear-gradient(to bottom, #b3d5eb, #53abe6);
+        text-decoration: none;
+      }
+      hr {
+        margin: 12px 0;
+        border: 0;
+        text-align: center;
+      }
+        
+        .before {
+          content: "\2022 \2022 \2022";
+          font-size: 50px;
+          color: #4F8BCA;
+        }
+.hot{
+    text-align: right;
+}
+.copyright{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px ;
+}
+hr{
+    border: dotted rgb(113, 129, 129) 6px;
+    border-bottom: none;
+    width: 20%;
+margin: 100px  auto;
+}
+.mountain{
+    width: 30%;
+}
